@@ -37,6 +37,6 @@ int[,,] mas = { { { 1, 2 },{ 3, 4 } },
 В папке: [Ссылка](7)  
 
 5. Разработка крестиков - ноликов  
-Задания: [крестики-нолики](https://docs.google.com/document/d/1ZIAYAtlOmOV9cQUhRFf85_ZYWZTeS6S5DV3xMjLASl4/edit?tab=t.0)
+Задания: [крестики-нолики](https://docs.google.com/document/d/1ZIAYAtlOmOV9cQUhRFf85_ZYWZTeS6S5DV3xMjLASl4/edit?tab=t.0)  
 В папке: [Ссылка](7)
 
