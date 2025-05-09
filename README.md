@@ -3,7 +3,7 @@
 
 1. Изучение переменных и констант, литералов, типов данных, консольный ввод/вывод  
 Задания: [Простой калькулятор на С#](https://docs.google.com/document/d/1ZnGoLewGhzjDnHyhAIqKXlh8Bbdz8S4hNgxuybi1f8Y/edit?tab=t.0)  
-В папке: [Ссылка](1)
+В папке: [Ссылка](https://github.com/larenzo1/dz/blob/main/%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80.cs)
 
 2. Изучение логического выбора и ветвлений в C#  
 Задания: [Создание интерактивной новеллы](https://docs.google.com/document/d/1B7s7u-bkZdoRrABVP6Q-wO1j9MXQ44kf3IUAnwfKiRc/edit?tab=t.0)  
