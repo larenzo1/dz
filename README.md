@@ -1,5 +1,5 @@
 **Основы алгоритмизации и программирования**
 Баканов Максим ИПО-21.23
 
-1. Изучение переменных и констант, литералов, типов данных, консольный ввод/вывод\t
-Задания: [Простой калькулятор на С#](https://docs.google.com/document/d/1ZnGoLewGhzjDnHyhAIqKXlh8Bbdz8S4hNgxuybi1f8Y/edit?tab=t.0)
+1. Изучение переменных и констант, литералов, типов данных, консольный ввод/выводline1\
+Задания: [Простой калькулятор на С#](https://docs.google.com/document/d/1ZnGoLewGhzjDnHyhAIqKXlh8Bbdz8S4hNgxuybi1f8Y/edit?tab=t.0) line2
