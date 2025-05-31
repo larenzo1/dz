@@ -40,18 +40,18 @@ int[,,] mas = { { { 1, 2 },{ 3, 4 } },
 Задания: [крестики-нолики](https://docs.google.com/document/d/1ZIAYAtlOmOV9cQUhRFf85_ZYWZTeS6S5DV3xMjLASl4/edit?tab=t.0)  
 В папке: [Ссылка](https://github.com/larenzo1/dz/blob/main/%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%B8%D0%BA%D0%B8%20%D0%BD%D0%BE%D0%BB%D0%B8%D0%BA%D0%B8.cs)
 
-6. Coderun
-Задания: [Юля, Никита и задачи](https://coderun.yandex.ru/selections/quickstart/problems/season-tasks)
-В папке: [Ссылка]()
+6. Coderun  
+Задания: [Юля, Никита и задачи](https://coderun.yandex.ru/selections/quickstart/problems/season-tasks)  
+В папке: [Ссылка](https://github.com/larenzo1/dz/blob/main/coderun%201.cs)  
 
-Задания: [Треугольник](https://coderun.yandex.ru/selections/quickstart/problems/triangle)
-В папке: []()
+Задания: [Треугольник](https://coderun.yandex.ru/selections/quickstart/problems/triangle)  
+В папке: [Ссылка](https://github.com/larenzo1/dz/blob/main/coderun%202.cs)  
 
-Задания: [Больше своих соседей](https://coderun.yandex.ru/selections/quickstart/problems/more-your-neighbors)
-В папке: []()
+Задания: [Больше своих соседей](https://coderun.yandex.ru/selections/quickstart/problems/more-your-neighbors)  
+В папке: [Ссылка](https://github.com/larenzo1/dz/blob/main/coderun%203.cs)  
 
-Задания: [Выставление тегов](https://coderun.yandex.ru/selections/quickstart/problems/calculate-tags)
-В папке: []()
+Задания: [Выставление тегов](https://coderun.yandex.ru/selections/quickstart/problems/calculate-tags)  
+В папке: [Ссылка](https://github.com/larenzo1/dz/blob/main/coderun%204.cs)  
 
-Задания: [29 задача аналитики](https://coderun.yandex.ru/selections/quickstart/problems/quadratic-equation)
-В папке: []()
+Задания: [29 задача аналитики](https://coderun.yandex.ru/selections/quickstart/problems/quadratic-equation)  
+В папке: [Ссылка](https://github.com/larenzo1/dz/blob/main/coderun%205.cs)  
